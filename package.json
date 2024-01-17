@@ -1,0 +1,15 @@
+{
+  "name": "google-keep-js-dom-firebase",
+  "version": "1.0.0",
+  "description": "A simple Google Keep app clone created with HTML, CSS, and JavaScript.\r ## Introduction\r This project is a clone of Google Keep, a note-taking web application. It has been created using HTML for the structure, CSS for styling, and JavaScript for functionality.\r ## Features\r - Create notes\r - Edit noes\r - Update notes\r - Delete notes through archive button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.5.0"
+  }
+}
